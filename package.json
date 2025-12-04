@@ -3,10 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "start": "bun start.js",
-    "dev": "rspack dev",
-    "build": "rspack build",
-    "preview": "rspack preview"
+    "start": "bun start.js"
   },
   "dependencies": {
     "@module-federation/enhanced": "^0.21.6",
